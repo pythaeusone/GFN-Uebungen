@@ -7,8 +7,11 @@ public class Main {
 		SDV eins = new Vigenere();
 		eins.setPrivateKey("PRUEFUNG");
 		eins.setKlarText("DERADLERISTGELANDET");
+		eins.setGeheimText("SVLEIFRXXJNKJFNTSVN");
 		
 		System.out.println(eins.codieren());
+		System.out.println();
+		System.out.println(eins.decodiere());
 
 	}
 
