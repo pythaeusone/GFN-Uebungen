@@ -1,7 +1,7 @@
 import java.awt.EventQueue;
 
-import javax.swing.JFrame;
-import javax.swing.JPanel;
+import javax.swing.JFrame;   // hallo 
+import javax.swing.JPanel;		//tschööö
 import javax.swing.border.EmptyBorder;
 import java.awt.Dimension;
 import javax.swing.JLabel;
